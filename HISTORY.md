@@ -1,3 +1,17 @@
+2.1.2 / 2017-09-28
+==================
+
+  * Bugfix: Upgrade passed-in `identify` to a version with `companyName()`
+
+2.1.1 / 2017-09-26
+==================
+
+  * Populate Hubspot-reserved `company` from `traits.company.name`
+
+2.1.0 / 2017-03-16
+==================
+
+  * Bump analytics.js-integration and analytics.js-integration-tester to ^3.x
 
 2.1.0 / 2017-03-16
 ==================
